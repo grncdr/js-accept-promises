@@ -4,7 +4,7 @@
   "description": "Accept Promises into your heart and/or functions.",
   "main": "index.js",
   "dependencies": {
-    "markdown-code-blocks": "^0.0.1"
+    "bluebird": "^1.2.4"
   },
   "devDependencies": {
     "markdown-code-blocks": "0.0.1"
