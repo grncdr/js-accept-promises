@@ -1,0 +1,29 @@
+{
+  "name": "accept-promises",
+  "version": "0.0.0",
+  "description": "Accept Promises into your heart and/or functions.",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-code-blocks": "^0.0.1"
+  },
+  "devDependencies": {
+    "markdown-code-blocks": "0.0.1"
+  },
+  "scripts": {
+    "test": "markdown-code-blocks -t javascript < README.md | node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/grncdr/js-accept-promises.git"
+  },
+  "keywords": [
+    "promise",
+    "decorator"
+  ],
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grncdr/js-accept-promises/issues"
+  },
+  "homepage": "https://github.com/grncdr/js-accept-promises"
+}
