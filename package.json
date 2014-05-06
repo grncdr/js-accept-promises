@@ -1,6 +1,6 @@
 {
   "name": "accept-promises",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Accept Promises into your heart and/or functions.",
   "main": "index.js",
   "dependencies": {
